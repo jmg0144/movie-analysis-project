@@ -35,4 +35,8 @@ Based on the findings from the data the main genres of films I recommend to make
 Based on the findings from the data two sub-genres of films I would reccomend to make are "Biography, Drama, Thriller" and "Drama, Mystery, Thriller". These types of films outperform other higher profit sub-genres in terms of popularity according to the data. This could indicate an untapped market for these types of films with a high demend for them and not enough supply.
 
 ## For More Information
+See the full analysis in the [Jupyter Notebook](http://localhost:8888/notebooks/movie-analysis-project/movie-analysis.ipynb) or review this 
+
+
 ## Repository Structure
+
