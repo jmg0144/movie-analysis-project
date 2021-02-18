@@ -2,6 +2,7 @@
 Author: Justin Giovatto
 ## Overview
 This project analyzes top performing films by different genres based on factors such as profit, gross, popularity, and rating. This analysis can be used to determine which types of films should be made going forward in creating a successful film studio.
+![Screen Shot 2021-02-17 at 3 00 51 PM](https://user-images.githubusercontent.com/66973223/108389583-cdd60b00-71dd-11eb-9c71-46337067120b.png)
 ## Business Problem
 Microsoft wants to start a movie film company and wants recommendations on the types of films to make.
 ![Screen Shot 2021-02-17 at 2 59 20 PM](https://user-images.githubusercontent.com/66973223/108389273-82236180-71dd-11eb-96c3-b71bff4188b9.png)
