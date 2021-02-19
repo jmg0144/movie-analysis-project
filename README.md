@@ -43,8 +43,6 @@ For additional information contact Justin Giovatto at justin.giovatto@gmail.com
 ## Repository Structure
 ├── data
 
-├── images
-
 ├── README.md
 
 ├── Movie_Analysis_Presentation.pdf
